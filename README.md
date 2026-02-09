@@ -1,2 +1,2 @@
 # melbourne-housing-price-prediction
-Data analysis and modeling using Python, SQL, and Tableau
+Predicting Melbourne housing prices using Python, SQL, and regression models
